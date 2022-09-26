@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Tugas Pertemua 2 Mata Kuliah Teknologi Web Service menggunakan bahasa pemograman dart
